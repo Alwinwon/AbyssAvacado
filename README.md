@@ -1,2 +1,2 @@
 # AbyssAvacado
-Looking into the abyss, the abyss stare back at the avacado.
+When you stare at the pit, the pit stares back at you.
